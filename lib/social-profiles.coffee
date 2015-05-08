@@ -52,6 +52,6 @@ module.exports =
           type: "Json"
       relationships:
         belongsTo:
-          accounts:
+          "accounts":
             as: "account"
             foreignKey: "accountId"

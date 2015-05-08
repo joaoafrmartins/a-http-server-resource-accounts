@@ -19,5 +19,7 @@
   },
   "bugs": {
     "url": "https://github.com/joaoafrmartins/a-http-server-resource-accounts/issues"
-  }
+  },
+  "author": "João Afonso Martins",
+  "license": "MIT"
 }
