@@ -1,3 +1,3 @@
 module.exports =
-  "accounts": require "./accounts"
-  "social-profiles": require "./social-profiles"
+  "accounts": require "#{__dirname}/accounts"
+  "social-profiles": require "#{__dirname}/social-profiles"
